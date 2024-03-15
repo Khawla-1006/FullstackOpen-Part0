@@ -1,12 +1,12 @@
 # University of HELSINKI 
 
-### FULLSTACK OPEN course:
+## FULLSTACK OPEN course:
 
-*Submissions to Part0:* 
+### *Submissions to Part0:* 
 
-Submissions for the **Fundamentals of Web Apps** course exercises.
+==> Submissions for the **Fundamentals of Web Apps** course exercises.
 
-Creating Diagrams using Mermaid Syntax.
+* Creating Diagrams using Mermaid Syntax.
 
 #### Preview:
 
